@@ -13,7 +13,6 @@
     ```bash
     python src/main.py
     ```
-<br>
 
 ## Configuration
 - Open `user_config.env` to set your stats and preferences for the fishing event.
